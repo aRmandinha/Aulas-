@@ -12,3 +12,15 @@
 .direita{
     text-align: right;
 }
+
+.cor-solida{
+    background-color: brown;
+}
+.gradiente{
+    background:linear-gradient(black,white);
+}
+.imagem{
+    background-image: url(https://www.otempo.com.br/adobe/dynamicmedia/deliver/dm-aid--6ecfc93b-fc1f-4639-9224-7026ad422a04/pets-pets-sem-categoria-animais-de-estimacao-cachorro-edicase-1713494689.jpg);
+background-size: cover;
+background-position: center;
+}
